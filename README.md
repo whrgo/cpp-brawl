@@ -10,7 +10,9 @@ for Android, install cxxdroid from playstore, open Program.cpp and run it
 for Pc or others, compile it then run it
 
 after running the code, open the apk and have fun! 
-# remark
+# remarks
+OwnHomeDataMessage structure is from [Modern Brawl](https://github.com/PhoenixFire6934/Modern-Brawl) 
+
 this is a sample server that I made while learning c++, basically it is a server base.
 it's whole code is written by me except for [CsvHelper.h](https://github.com/ben-strasser/fast-cpp-csv-parser) 
 
