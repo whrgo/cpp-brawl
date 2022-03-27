@@ -19,3 +19,5 @@ it's whole code is written by me except for [CsvHelper.h](https://github.com/ben
 I made my best to only use built in libraries
 # any questions? 
 if you have any question, feel free to ask me in my [discord server](https://discord.gg/b2ejYcJjqA)
+
+an  opened issue will be deleted. you can only discuss/ask/report bugs in the discord server.
