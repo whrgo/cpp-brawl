@@ -4,6 +4,7 @@ First Brawl Stars v29 open source private server made in c++!
 ![GamePlay](GamePlay/gameplay.jpg)
 # how2play
 [download the apk from here](https://www.mediafire.com/file/366j54deggto6nj/cpp-brawl.apk/file) 
+
 for Android, install cxxdroid from playstore, open Program.cpp and run it
 
 for Pc or others, compile it then run it
