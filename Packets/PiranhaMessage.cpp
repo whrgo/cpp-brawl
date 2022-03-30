@@ -1,10 +1,10 @@
-#include "Server/Login/LoginOkMessage.h"
-#include "Server/Home/OwnHomeDataMessage.h"
-#include "Server/Home/AvatarNameChangeFailedMessage.h"
-#include "Server/Commands/LogicChangeAvatarNameCommand.h"
-#include "Client/Login/LoginMessage.h"
-#include "Client/Home/AnalyticsEventMessage.h"
-#include "Client/Home/SetNameMessage.h"
+#include "Server/Login/LoginOkMessage.cpp"
+#include "Server/Home/OwnHomeDataMessage.cpp"
+#include "Server/Home/AvatarNameChangeFailedMessage.cpp"
+#include "Server/Commands/LogicChangeAvatarNameCommand.cpp"
+#include "Client/Login/LoginMessage.cpp"
+#include "Client/Home/AnalyticsEventMessage.cpp"
+#include "Client/Home/SetNameMessage.cpp"
 
 class PiranhaMessage
 {
