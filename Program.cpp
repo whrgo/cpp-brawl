@@ -11,13 +11,13 @@
 #include <fstream>
 #include <sstream>
 #include "config.h"
-#include "DataBase/DataBase.h"
+#include "DataBase/DataBase.cpp"
 #include "Utils/CsvHelper.h"
-#include "CsvReader/CsvReader.h"
-#include "Logic/Player.h"
-#include "Utils/Helper.h"
-#include "DataStream/ByteStream.h"
-#include "Packets/PiranhaMessage.h"
+#include "CsvReader/CsvReader.cpp"
+#include "Logic/Player.cpp"
+#include "Utils/Helper.cpp"
+#include "DataStream/ByteStream.cpp"
+#include "Packets/PiranhaMessage.cpp"
 
 void connection(int cfd)
 {
